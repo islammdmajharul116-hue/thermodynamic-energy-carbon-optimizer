@@ -1,0 +1,9 @@
+window,shift,demand_units,grid_cost_usd_kwh,carbon_kg_kwh,ambient_c,pressure_bar
+0,night,70,0.080,0.41,24,7.0
+1,night,65,0.075,0.39,23,6.8
+2,morning,110,0.140,0.50,29,7.5
+3,morning,125,0.165,0.54,32,7.8
+4,afternoon,135,0.210,0.62,36,8.1
+5,afternoon,120,0.190,0.59,35,7.9
+6,evening,95,0.115,0.46,30,7.3
+7,evening,80,0.095,0.43,27,7.1
